@@ -118,7 +118,7 @@ CV_on_Rover/
 On **each** Pi, clone the repo and install the dependencies for that role.
 
 ```bash
-git clone https://github.com/ishita-0301/CV_on_Rover.git
+git clone https://github.com/deapickerotaku/CV_on_Rover.git
 cd CV_on_Rover
 ```
 
